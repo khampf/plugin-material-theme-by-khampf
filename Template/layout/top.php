@@ -1,3 +1,3 @@
 <div id="top-bar">
-    Top Bar
+    Material Kanboard
 </div>
