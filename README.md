@@ -1,5 +1,5 @@
-Example of theme plugin
-=======================
+Material theme plugin for Kanboard
+==================================
 
 This plugin override core templates and use template hooks to create a custom theme.
 
@@ -18,4 +18,5 @@ Installation
 Screenshot
 ----------
 
+(from the original kanboard theme example for now)
 ![plugin-example-theme](https://cloud.githubusercontent.com/assets/323546/9838179/6ef2b466-5a24-11e5-9988-5402eaf55026.png)
