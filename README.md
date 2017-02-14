@@ -10,6 +10,14 @@ This plugin override core templates and use template hooks to create a custom th
 Installation
 ------------
 
+What I think will work:
+
+- go to your kanboard installation **plugins** folder
+- git clone this repo
+- __magic__
+
+Original instructions:
+
 - Create a directory **Theme** under the folder **plugins**
 - Copy all source files in this new directory
 - Go on your local installation of Kanboard
