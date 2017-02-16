@@ -31,4 +31,4 @@ Original instructions:
 Screenshot
 ----------
 
-![plugin-example-theme](screenshot.png)
+![plugin-example-theme](screenshot.png?raw=true)
