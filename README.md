@@ -18,7 +18,8 @@ What I think will work:
 
 - go to your kanboard installation **plugins** folder
 - git clone this repo
-- __magic__
+- rename the project folder to **Theme**
+- m a g i c
 
 Original instructions:
 
@@ -30,5 +31,4 @@ Original instructions:
 Screenshot
 ----------
 
-(from the original kanboard theme example for now)
-![plugin-example-theme](https://cloud.githubusercontent.com/assets/323546/9838179/6ef2b466-5a24-11e5-9988-5402eaf55026.png)
+![plugin-example-theme](screenshot.png)
